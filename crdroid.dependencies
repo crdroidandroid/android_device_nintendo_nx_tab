@@ -1,0 +1,118 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_nintendo_nx_tab",
+    "target_path": "device/nintendo/nx_tab"
+  },
+  {
+    "repository": "crdroidandroid/android_device_nintendo_nx",
+    "target_path": "device/nintendo/nx"
+  },
+  {
+    "repository": "crdroidandroid/android_device_nvidia_t210-common",
+    "target_path": "device/nvidia/t210-common"
+  },
+  {
+    "repository": "crdroidandroid/android_device_nvidia_tegra-common",
+    "target_path": "device/nvidia/tegra-common"
+  },
+  {
+    "repository": "crdroidandroid/android_device_nvidia_sepolicy",
+    "target_path": "device/nvidia/sepolicy"
+  },
+  {
+    "repository": "LineageOS/android_external_libevdev",
+    "target_path": "external/libevdev"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nintendo_arm-trusted-firmware",
+    "target_path": "hardware/nintendo/arm-trusted-firmware"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nintendo_joycond",
+    "target_path": "hardware/nintendo/joycond"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nintendo_u-boot",
+    "target_path": "hardware/nintendo/u-boot"
+  },
+  {
+    "repository": "LineageOS/android_hardware_intel_sensors-iio",
+    "target_path": "hardware/intel/sensors-iio"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_interfaces",
+    "target_path": "hardware/nvidia/interfaces"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_light",
+    "target_path": "hardware/nvidia/light"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_platform_t210_nx",
+    "target_path": "hardware/nvidia/platform/t210/nx"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_power",
+    "target_path": "hardware/nvidia/power"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_thermal",
+    "target_path": "hardware/nvidia/thermal"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_platform_tegra_common",
+    "target_path": "hardware/nvidia/platform/tegra/common"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_platform_t210_common",
+    "target_path": "hardware/nvidia/platform/t210/common"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_soc_t210",
+    "target_path": "hardware/nvidia/soc/t210"
+  },
+  {
+    "repository": "LineageOS/android_hardware_nvidia_soc_tegra",
+    "target_path": "hardware/nvidia/soc/tegra"
+  },
+  {
+    "repository": "LineageOS/android_kernel_nvidia_cypress-fmac-upstream",
+    "target_path": "kernel/nvidia/cypress-fmac-upstream"
+  },
+  {
+    "repository": "LineageOS/android_kernel_nvidia_exfat",
+    "target_path": "kernel/nvidia/exfat"
+  },
+  {
+    "repository": "LineageOS/android_kernel_nvidia_kernel-nx",
+    "target_path": "kernel/nvidia/kernel-4.9-nx"
+  },
+  {
+    "repository": "LineageOS/android_kernel_nvidia_nvidia-nx",
+    "target_path": "kernel/nvidia/nvidia-nx"
+  },
+  {
+    "repository": "LineageOS/android_kernel_nvidia_nvgpu",
+    "target_path": "kernel/nvidia/nvgpu"
+  },
+  {
+    "repository": "LineageOS/android_kernel_nvidia_wireguard",
+    "target_path": "kernel/nvidia/wireguard"
+  },
+  {
+    "repository": "LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3",
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-9.3"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_nintendo_nx",
+    "target_path": "vendor/nintendo/nx"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_nvidia_t210",
+    "target_path": "vendor/nvidia/t210"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_nvidia_common",
+    "target_path": "vendor/nvidia/common"
+  }
+]
