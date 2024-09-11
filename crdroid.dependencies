@@ -1,9 +1,5 @@
 [
   {
-    "repository": "crdroidandroid/android_device_nintendo_nx_tab",
-    "target_path": "device/nintendo/nx_tab"
-  },
-  {
     "repository": "crdroidandroid/android_device_nintendo_nx",
     "target_path": "device/nintendo/nx"
   },
