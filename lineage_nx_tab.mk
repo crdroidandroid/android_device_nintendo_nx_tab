@@ -27,8 +27,8 @@ $(call inherit-product, device/nintendo/nx/device.mk)
 
 PRODUCT_NAME := lineage_nx_tab
 PRODUCT_DEVICE := nx_tab
-PRODUCT_BRAND := NINTENDO
-PRODUCT_MANUFACTURER := NINTENDO
+PRODUCT_BRAND := Nintendo
+PRODUCT_MANUFACTURER := Nintendo
 PRODUCT_MODEL := Switch
 
 # crDroid build flags
