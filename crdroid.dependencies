@@ -28,10 +28,6 @@
     "target_path": "hardware/nintendo/joycond"
   },
   {
-    "repository": "LineageOS/android_hardware_nintendo_u-boot",
-    "target_path": "hardware/nintendo/u-boot"
-  },
-  {
     "repository": "LineageOS/android_hardware_intel_sensors-iio",
     "target_path": "hardware/intel/sensors-iio"
   },
