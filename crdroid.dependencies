@@ -20,6 +20,10 @@
     "target_path": "external/libevdev"
   },
   {
+    "repository": "crdroidandroid/android_hardware_dolby_interfaces",
+    "target_path": "hardware/dolby/interfaces"
+  },
+  {
     "repository": "crdroidandroid/android_hardware_nintendo_arm-trusted-firmware",
     "target_path": "hardware/nintendo/arm-trusted-firmware"
   },
