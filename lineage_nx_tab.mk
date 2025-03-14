@@ -36,3 +36,9 @@ TARGET_ENABLE_BLUR := true
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_SUPPORTS_BLUR := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := false
+
+# Quick Tap
+PRODUCT_COPY_FILES += \
+    device/nintendo/nx_tab/conf/quick_tap.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/quick_tap.xml
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
+    persist.columbus.use_ap_sensor=false
